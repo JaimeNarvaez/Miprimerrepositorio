@@ -1,3 +1,6 @@
+import random
+# estos son cambios del 2025
+
 meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
             "LOL": "Una respuesta común a algo gracioso",
@@ -5,9 +8,5 @@ meme_dict = {
 word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
 
 if word in meme_dict.keys():
-    # ¿Qué debemos hacer si se encuentra la palabra?
-else:
-    # ¿Qué hacer si no se encuentra la palabra? esto seria un cambion dentro del codigo 
-#Cambio de codigo el 23/09
 
-#Esto es un cambio
+else:
